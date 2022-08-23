@@ -1,17 +1,17 @@
-Date,DBName,DBSize(MB)
-22-Dec-21 06:15:10,Dbone,1000
-22-Dec-21 07:10:15,Dbtwo,3000
-22-Dec-21 08:00:15,Dbthree,1108
-22-Dec-21 10:05:25,Dbfour,3250
-22-Dec-21 11:30:22,Dbone,1360
-22-Dec-21 12:08:36,Dbtwo,1220
-22-Dec-21 14:09:22,Dbthree,1108
-23-Dec-21 16:18:39,Dbone,1200
-23-Dec-21 19:16:18,Dbtwo,1000
-23-Dec-21 20:00:25,Dbthree,1108
-23-Dec-21 20:05:25,Dbfour,3000
-23-Dec-21 22:12:26,Dbone,1250
-23-Dec-21 23:14:08,Dbtwo,2500
-23-Dec-21 23:06:12,Dbthree,1108
-23-Dec-21 24:05:05,Dbfour,3362
-24-Dec-21 24:18:25,Dbone,1450
+Date,Time,DBName,DBSize(MB)
+22-Dec-21,08:00:00,Dbone,1000
+22-Dec-21,20:00:00,Dbtwo,5000
+22-Dec-21,08:00:15,Dbthree,1108
+22-Dec-21,20:00:00,Dbfour,3250
+22-Dec-21,08:00:00,Dbone,1360
+22-Dec-21,20:00:00,Dbtwo,1220
+22-Dec-21,08:00:00,Dbthree,1108
+23-Dec-21,20:00:00,Dbone,1200
+23-Dec-21,08:00:00,Dbtwo,1000
+23-Dec-21,20:00:00,Dbthree,1108
+23-Dec-21,08:00:00,Dbfour,3000
+23-Dec-21,20:00:00,Dbone,1250
+23-Dec-21,08:00:00,Dbtwo,2500
+23-Dec-21,20:00:00,Dbthree,1108
+23-Dec-21,08:00:00,Dbfour,3362
+24-Dec-21,20:00:00,Dbone,1456
