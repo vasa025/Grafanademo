@@ -1,4 +1,4 @@
-Timestamp,DBName,DBSize(MB)
+Date,DBName,DBSize(MB)
 2021-12-21 08:00:00,Dbone,1000
 2021-12-21 20:00:00,Dbtwo,5000
 2021-12-21 08:00:00,Dbthree,1108
@@ -15,3 +15,4 @@ Timestamp,DBName,DBSize(MB)
 2021-12-23 20:00:00,Dbthree,1108
 2021-12-23 08:00:00,Dbfour,3362
 2021-12-24 20:00:00,Dbone,1456
+
